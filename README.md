@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently studying essential knowledge for university
 - 👯 I hope what my heart thinks is what I deserve
 - 💬 Ask me about: Male high school student currently preparing for the exam at home
-- 📫 How to reach me: sondy@清酒铺子.中国(email)
+- 📫 How to reach me: <a href="mailto:wleelw@sondy.top">email</a>
 - 😄 If you can help me with my studies, we will be good friends
 - ⚡ Fun fact: C#,Java,Kotlin,Python,Golang,易语言
 
