@@ -14,9 +14,9 @@
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/wleelw/count.svg)
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=wleelw&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+<img src="https://github-readme-stats.vercel.app/api?username=wleelw&show_icons=true&hide_border=true&theme=chartreuse-dark" >
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=wleelw&show_icons=true&hide_border=true&theme=highcontrast" ></center>
+<img src="https://github-readme-stats.vercel.app/api?username=wleelw&show_icons=true&hide_border=true&theme=highcontrast" >
 
 <style>
   img {
