@@ -1,20 +1,3 @@
-<!--
-**wleelw/wleelw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="right" src="https://avatars.githubusercontent.com/wleelw" width="200px" />
-
 - 🔭 I'm currently attending school
 - 🌱 I'm currently studying essential knowledge for university
 - 👯 I hope what my heart thinks is what I deserve
@@ -25,7 +8,9 @@ Here are some ideas to get you started:
 
 ---
 
-![C#](https://img.shields.io/badge/Language-C%23-%239400D3) ![Kotlin](https://img.shields.io/badge/Language-Kotlin-%23DCD0FF) ![Dart](https://img.shields.io/badge/Language-Dart-%236495ED) ![易语言](https://img.shields.io/badge/Language-易语言-%23C0C0C0)
+|   ![C#](https://img.shields.io/badge/Language-C%23-%239400D3)   |   ![Kotlin](https://img.shields.io/badge/Language-Kotlin-%23DCD0FF)   |   ![Dart](https://img.shields.io/badge/Language-Dart-%236495ED)   |   ![易语言](https://img.shields.io/badge/Language-易语言-%23C0C0C0)   |
+| ---- | ---- | ---- | ---- |
+
 
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/wleelw/count.svg)
