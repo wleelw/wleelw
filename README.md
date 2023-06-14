@@ -9,7 +9,6 @@
 ---
 
 |   ![C#](https://img.shields.io/badge/Language-C%23-%239400D3)   |   ![Kotlin](https://img.shields.io/badge/Language-Kotlin-%23DCD0FF)   |   ![Dart](https://img.shields.io/badge/Language-Dart-%236495ED)   |   ![易语言](https://img.shields.io/badge/Language-易语言-%23C0C0C0)   |
-| ---- | ---- | ---- | ---- |
 
 
 # Visitor Count
