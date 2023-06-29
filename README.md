@@ -1,14 +1,10 @@
-- 🔭 I'm currently attending school
-- 🌱 I'm currently studying essential knowledge for university
-- 👯 I hope what my heart thinks is what I deserve
-- 💬 Ask me about: Male high school student currently preparing for the exam at home
-- 📫 How to reach me: <a href="mailto:wleelw@sondy.eu.org">email</a>
-- 😄 If you can help me with my studies, we will be good friends
-- ⚡ Fun fact: C#,Kotlin,Dart,易语言
+- Hi! I'm Jose.
+- My Website: [不凡](https://www.sondy.top/)
+- Fun fact: C#,Kotlin,Dart
 
 ---
 
-![C#](https://img.shields.io/badge/Language-C%23-%239400D3)![Kotlin](https://img.shields.io/badge/Language-Kotlin-%23DCD0FF)![Dart](https://img.shields.io/badge/Language-Dart-%236495ED)![易语言](https://img.shields.io/badge/Language-易语言-%23C0C0C0)
+![C#](https://img.shields.io/badge/C%23-%239400D3) ![Kotlin](https://img.shields.io/badge/Kotlin-%23DCD0FF) ![Dart](https://img.shields.io/badge/Dart-%236495ED)
 
 
 # Visitor Count
