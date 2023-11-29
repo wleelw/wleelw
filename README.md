@@ -1,5 +1,5 @@
 - Hi! I'm Jose.
-- My Website: [王卓Heo](https://www.sondy.top/)
+- My Website: [王卓Heo](https://blog.wzsco.top/)
 - Fun fact: C#,Kotlin,Dart
 
 ---
