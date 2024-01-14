@@ -14,13 +14,8 @@ let's go blog ➡️ [王卓Sco - 宁静致远，热爱生活。](https://blog.w
 
 ![C#](https://img.shields.io/badge/C%23-%239400D3) ![Kotlin](https://img.shields.io/badge/Kotlin-%23DCD0FF) ![Dart](https://img.shields.io/badge/Dart-%236495ED)
 
-## 💪 更多数据
-<!-- BiliBili和GitHub数据 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wleelw&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=30,8BC6EC,9599E2&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wleelw&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=30,8BC6EC,9599E2&theme=graywhite" />
-</div>
-<div align="center">
-  <img height="216px" src="https://github-readme-streak-stats.herokuapp.com/?user=wleelw&theme=dark&hide_border=true" />
-  <a href="https://space.bilibili.com/1329819902"><img src="https://stats.justsong.cn/api/bilibili/?id=1329819902"/></a>
-</div>
+<a href="mailto:wzsco@qq.com"><img src="https://img.shields.io/badge/Email-wzsco@qq.com-blue?logo=mail.ru" alt="Email" /></a>
+
+|                          GitHub状态                          |                        使用最多的语言                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wleelw&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wleelw&&hide=tsql) |
