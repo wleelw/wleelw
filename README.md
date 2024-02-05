@@ -10,7 +10,7 @@
 
 Your will comes to the world of code!
 
-let's go blog ➡️ [王卓Sco - 宁静致远，热爱生活。](https://blog.wzsco.top)
+let's go blog ➡️ [王卓Sco - 宁静致远，热爱生活。](https://blog.wzsco.cn)
 
 ![C#](https://img.shields.io/badge/C%23-%239400D3) ![Kotlin](https://img.shields.io/badge/Kotlin-%23DCD0FF) ![Dart](https://img.shields.io/badge/Dart-%236495ED)
 
