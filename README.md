@@ -16,6 +16,5 @@ let's go blog ➡️ [王卓Sco - 宁静致远，热爱生活。](https://blog.w
 
 <a href="mailto:me@wzsco.top"><img src="https://img.shields.io/badge/Email-me@wzsco.top-blue?logo=mail.ru" alt="Email" /></a>
 
-|                          GitHub状态                          |                        使用最多的语言                        |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wleelw&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wleelw&&hide=tsql) |
+<img src="https://stats.deeptrain.net/user/wleelw" width="600px" alt="code-stats"></img><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wleelw" width="600px" alt="commit-stats"></img>
